@@ -6,9 +6,15 @@ aliases = ["about-Me", "about-I", "about-Mysefl"]
 author = "Anthony Authors"
 +++
 
-Since several years ago I've been thinking in create my own blog to share with the programmers community (not only scala) several of my achievements and how I solved several challenges I faced during my still short career (still in progress), and finally that day has come. 
+### Motivation
 
-I'm from a small city called Bucaramanga located in Colombia, surrounded by a lot of problems as same as the country, fortunately, lack of passion is not one of those.
+Since several years ago I've been thinking in create my own blog to share with the programmers community (not only [Scala](https://www.scala-lang.org/)) several
+of my achievements and how I solved several challenges I faced during my still short career (still in progress), and finally that day has come, enjoy and
+I hope that some of those topic help to you to achieve yours goals. 
+
+### Who I'm because I am how I am
+
+I'm from a small city called Bucaramanga located in Colombia, surrounded by a lot of problems as same as the country, fortunately, lack of passion is not one of those, at least for me.
 
 Quickly I realized that my life won't be easy, I wasn't charismatic, handsome, clever, easygoing, and most of the time very shy and my vision sucks,
 but that shyness save me from my own destruction, you'll realize why I say it.
@@ -17,21 +23,10 @@ since I was a child the computer was my escape from the nightmare that was my re
 love still seems far away, and even more so for someone who grew up between numbers and lines of code, for whom social interactions seem fake most of the time and too complex, but I still have the hope that having enough money it will be a matter of
 time before a nice woman notices me and not just for help, favors, or only money.
 
-### My life after the Collage
+## My software engineer background
 
+### First
 
-Hugo makes use of a variety of open source projects including:
+## What comes next
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+# Scala Scala Scala ...
