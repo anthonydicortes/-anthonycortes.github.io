@@ -14,7 +14,7 @@ params:
   description: Anthony Cortés's personal blog
   keywords: 'blog,developer,personal'
   avatarurl: images/avatar.jpg
-  gravatar: images/avatar.jpg
+#  gravatar: images/avatar.jpg
   faviconSVG: /img/favicon.svg
   favicon_32: /img/favicon-32x32.png
   favicon_16: /img/favicon-16x16.png
