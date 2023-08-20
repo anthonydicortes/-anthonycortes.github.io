@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67ab5fcd-6342-4966-a063-a2e9bce8792b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/content/en/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/en/contact.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logos/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logos/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logos/logomark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logos/logomark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logos/logotype-a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logos/logotype-a.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logos/logotype-b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/logos/logotype-b.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/images/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/posts/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/authors/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/authors/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/coder.min.5adbe72fc41dcfb852215b84695288939b6b606db73238bd3ee936469572fc9c.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/coder.min.5adbe72fc41dcfb852215b84695288939b6b606db73238bd3ee936469572fc9c.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/posts/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/posts/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/series/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/series/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/series/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/docs/scss/coder.scss_38b4d05915c0483e6cb106e4f0efccbc.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/docs/scss/coder.scss_38b4d05915c0483e6cb106e4f0efccbc.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/coder-dark.scss_70f8a07cb8b7568202eb18ce456ff884.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/coder-dark.scss_70f8a07cb8b7568202eb18ce456ff884.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/coder.scss_38b4d05915c0483e6cb106e4f0efccbc.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/coder.scss_38b4d05915c0483e6cb106e4f0efccbc.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/coder.scss_d9b60ee5c2bc7799a5af2e1647965a29.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/coder.scss_d9b60ee5c2bc7799a5af2e1647965a29.content" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/static/images/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/static/images/avatar.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2UGRYjPp1lGoZNcudaE4MjcQaDJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/anton/OneDrive/Documentos/Vida intelectual/Blog/anthonydicortes.github.io/static"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anton\OneDrive\Documentos\Vida intelectual\Blog\anthonydicortes.github.io\static" />
+      <recent name="C:\Users\anton\OneDrive\Documentos\Vida intelectual\Blog\anthonydicortes.github.io\content\about" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anton\OneDrive\Documentos\Vida intelectual\Blog\anthonydicortes.github.io\content\en" />
+      <recent name="C:\Users\anton\OneDrive\Documentos\Vida intelectual\Blog\anthonydicortes.github.io\themes\hugo-coder\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67ab5fcd-6342-4966-a063-a2e9bce8792b" name="Changes" comment="" />
+      <created>1692563980639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692563980639</updated>
+    </task>
+    <servers />
+  </component>
+</project>

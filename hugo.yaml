@@ -1,0 +1,79 @@
+baseurl: ""
+title: Anthony Cortés
+theme: hugo-coder
+languagecode: en
+defaultcontentlanguage: en
+paginate: 20
+disqusShortname: Anthony
+markup:
+  highlight:
+    style: github-dark
+params:
+  author: "Anthony Cortés \U0001F43A"
+  info: Narcissistic software engineer and Scala advocate
+  description: Anthony Cortés's personal blog
+  keywords: 'blog,developer,personal'
+  avatarurl: images/avatar.jpg
+  gravatar: images/avatar.jpg
+  faviconSVG: /img/favicon.svg
+  favicon_32: /img/favicon-32x32.png
+  favicon_16: /img/favicon-16x16.png
+  since: 2023
+  enableTwemoji: true
+  colorScheme: auto
+  hidecolorschemetoggle: false
+  social:
+    - name: Github
+      icon: fa fa-github fa-2x
+      weight: 1
+      url: 'https://github.com/anthonydicortes/'
+    - name: Linkedin
+      icon: fa fa-linkedin fa-2x
+      weight: 2
+      url: 'https://www.linkedin.com/in/luis-antonio-cortes/'
+    - name: Twitter
+      icon: fa fa-twitter fa-2x
+      weight: 3
+      url: 'https://twitter.com/anthony_di_/'
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+  author: authors
+menu:
+  main:
+    - name: About
+      weight: 1
+      url: about/
+    - name: Blog
+      weight: 2
+      url: posts/
+    - name: Contact
+      weight: 3
+      url: contact/
+
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+languages:
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: 🇺🇸
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Anthony Cortés
+    info: Narcissistic software engineer and Scala advocate
+    weight: 1
+  es:
+    contentDir: content/es
+    disabled: false
+    languageCode: es-ES
+    languageDirection: ltr
+    languageName: 🇪🇸
+    params:
+      subtitle: Referencias, Tutoriales y explicaciones
+    title: Anthony Cortés
+    info: Ingeniero de software narcisista y defensor de Scala
+    weight: 2
