@@ -10,7 +10,7 @@ markup:
     style: github-dark
 params:
   author: "Anthony Cortés \U0001F43A"
-  info: Narcissistic software engineer and Scala advocate
+  info: Passionate software engineer and Scala advocate
   description: Anthony Cortés's personal blog
   keywords: 'blog,developer,personal'
   avatarurl: images/avatar.jpg

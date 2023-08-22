@@ -6,14 +6,14 @@
     <description>Recent content on Anthony Cortés</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 16 Aug 2023 22:37:57 -0500</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 22:50:00 -0500</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Me I and Myself</title>
-      <link>/en/posts/about/</link>
-      <pubDate>Wed, 16 Aug 2023 22:37:57 -0500</pubDate>
+      <title>API Testing for Multidisciplinary Teams: Karate vs REST assured</title>
+      <link>/en/posts/karate_vs_rest_assured/</link>
+      <pubDate>Sun, 20 Aug 2023 22:50:00 -0500</pubDate>
       
-      <guid>/en/posts/about/</guid>
-      <description>public class Hola { public static void main() { return false; } } </description>
+      <guid>/en/posts/karate_vs_rest_assured/</guid>
+      <description>Introduction:Link to headingIn the realm of modern software engineering, the convergence of diverse expertise is a hallmark of success. Multidisciplinary teams, composed of experts from various technical backgrounds, collaborate to design, develop, and deliver cutting-edge software products. One crucial facet of this collaborative effort is API testing, a process that ensures seamless communication and functionality between different components of a software ecosystem. As seasoned software engineers, the responsibility of selecting the right tools for such endeavors becomes even more critical.</description>
     </item>
     
     <item>

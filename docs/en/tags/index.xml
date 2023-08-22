@@ -5,6 +5,43 @@
     <link>/en/tags/</link>
     <description>Recent content in Tags on Anthony Cortés</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Aug 2023 22:50:00 -0500</lastBuildDate><atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API TEST</title>
+      <link>/en/tags/api-test/</link>
+      <pubDate>Sun, 20 Aug 2023 22:50:00 -0500</pubDate>
+      
+      <guid>/en/tags/api-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>/en/tags/java/</link>
+      <pubDate>Sun, 20 Aug 2023 22:50:00 -0500</pubDate>
+      
+      <guid>/en/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>karate</title>
+      <link>/en/tags/karate/</link>
+      <pubDate>Sun, 20 Aug 2023 22:50:00 -0500</pubDate>
+      
+      <guid>/en/tags/karate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>/en/tags/testing/</link>
+      <pubDate>Sun, 20 Aug 2023 22:50:00 -0500</pubDate>
+      
+      <guid>/en/tags/testing/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
