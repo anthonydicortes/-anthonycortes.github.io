@@ -5,6 +5,36 @@
     <link>/es/</link>
     <description>Recent content on Anthony Cortés</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language><atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-ES</language>
+    <lastBuildDate>Sat, 13 Jan 2024 11:24:31 -0500</lastBuildDate><atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Laberinto de la Burocracia: El Caso de Antonio Cortés</title>
+      <link>/es/post/critica_al_fna/</link>
+      <pubDate>Sat, 13 Jan 2024 11:24:31 -0500</pubDate>
+      
+      <guid>/es/post/critica_al_fna/</guid>
+      <description>“El Laberinto de la Burocracia: El Caso de Antonio Cortés”Link to headingPor Antonio Cortés
+Es lamentable que una entidad como el Fondo Nacional del Ahorro (FNA), una entidad público-privada, cuyo propósito es facilitar el acceso a la vivienda, se vea empañada por procesos burocráticos ineficientes y falta de transparencia. En el caso del señor Antonio Cortés, un colombiano radicado en la ciudad de Bucaramanga, la solicitud de un crédito para adquirir una vivienda usada se convirtió en un calvario de más de tres meses, un tiempo exorbitante para la evaluación del predio y el estudio de títulos, que según los tiempos estipulados por el FNA, debieron haber tomado solo 5 días hábiles cada una de las etapas.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/es/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/contact/</guid>
+      <description>If you want to contact me, fell free to write an email to anthonydicortes@gmail.com, with the subject Question for Anthony&amp;rsquo;s blog, I&amp;rsquo;ll reply it ASAP.</description>
+    </item>
+    
+    <item>
+      <title>Me, Myself &amp; I</title>
+      <link>/es/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/es/about/</guid>
+      <description>MotivationLink to headingSince several years ago I&amp;rsquo;ve been thinking in create my own blog to share with the programmers community (not only Scala) several of my achievements and how I solved several challenges I faced during my still short career (still in progress), and finally that day has come, enjoy and I hope that some of those topic help to you to achieve yours goals.
+Who I&amp;rsquo;m because I am how I amLink to headingI&amp;rsquo;m from a small city called Bucaramanga located in Colombia, surrounded by a lot of problems as same as the country, fortunately, lack of passion is not one of those, at least for me.</description>
+    </item>
+    
   </channel>
 </rss>

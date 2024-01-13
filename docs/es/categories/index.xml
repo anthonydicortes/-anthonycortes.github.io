@@ -5,6 +5,34 @@
     <link>/es/categories/</link>
     <description>Recent content in Categories on Anthony Cortés</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language><atom:link href="/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-ES</language>
+    <lastBuildDate>Sat, 13 Jan 2024 11:24:31 -0500</lastBuildDate><atom:link href="/es/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>credito hipotecario</title>
+      <link>/es/categories/credito-hipotecario/</link>
+      <pubDate>Sat, 13 Jan 2024 11:24:31 -0500</pubDate>
+      
+      <guid>/es/categories/credito-hipotecario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finanzas personales</title>
+      <link>/es/categories/finanzas-personales/</link>
+      <pubDate>Sat, 13 Jan 2024 11:24:31 -0500</pubDate>
+      
+      <guid>/es/categories/finanzas-personales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FNA</title>
+      <link>/es/categories/fna/</link>
+      <pubDate>Sat, 13 Jan 2024 11:24:31 -0500</pubDate>
+      
+      <guid>/es/categories/fna/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

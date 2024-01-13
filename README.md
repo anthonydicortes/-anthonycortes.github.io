@@ -8,6 +8,10 @@ Documentation(https://mdui.kejun.me/#/quickstart)
 hugo server
 ```
 
+### Local and prod preview:
+
+To enable or disable the visualization of your post, there is a property called **draft** be sure that is **true**, otherwise your post won't be visible
+
 ### To generate the deployment files run the following command:
 ``` cmd
 hugo -d "./docs" -t hugo-coder
