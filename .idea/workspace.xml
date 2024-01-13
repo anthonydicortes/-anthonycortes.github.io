@@ -5,313 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67ab5fcd-6342-4966-a063-a2e9bce8792b" name="Changes" comment="Post about Karate">
-      <change afterPath="$PROJECT_DIR$/content/en/posts/karate_vs_rest_assured.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/authors/anthony-cortes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/authors/anthony-cortes/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/authors/anthony-cortes/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/categories/api-test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/categories/api-test/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/categories/api-test/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/categories/java/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/categories/java/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/categories/java/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/categories/karate/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/categories/karate/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/categories/karate/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/categories/testing/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/categories/testing/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/categories/testing/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/posts/karate_vs_rest_assured/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/tags/api-test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/tags/api-test/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/tags/api-test/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/tags/java/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/tags/java/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/tags/java/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/tags/karate/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/tags/karate/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/tags/karate/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/tags/testing/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/tags/testing/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/en/tags/testing/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/.github/FUNDING.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/.github/ISSUE_TEMPLATE/question.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/.github/pull_request_template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/CONTRIBUTORS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/archetypes/default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/archetypes/posts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/js/coder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_base_dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_base_rtl.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_content.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_content_dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_content_rtl.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_float_dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_footer_dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_navigation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_navigation_dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_navigation_rtl.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_notices.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_notices_dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_syntax.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_syntax_dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_tabs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_tabs_dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_taxonomies.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_taxonomies_dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/coder-dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/coder-rtl.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/coder.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/assets/scss/fork-awesome/fork-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/applicationinsights.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/baidu.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/cloudflare.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/fathom.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/goatcounter.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/googleanalytics.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/googletagmanager.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/matomo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/microanalytics.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/pirsch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/plausible.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/umami.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/analytics/wideangle.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/comment-system.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/configurations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/contributing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/faq.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/home.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/multilingual-mode.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/docs/quick-start.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/about.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/authors/hugo-authors/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/authors/hugo-authors/_index.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/categories/syntax/_index.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/contact.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/contact.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/emoji-support.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/emoji-support.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/external-post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/external-post.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/html-and-css-only-tabs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/html-and-css-only-tabs.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/markdown-syntax.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/markdown-syntax.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/math-typesetting.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/math-typesetting.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/mermaid-support.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/mermaid-support.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/more-rich-content.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/more-rich-content.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/placeholder-text.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/placeholder-text.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/rich-content.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/posts/rich-content.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/projects.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/projects.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/content/tags/shortcodes/_index.pt-br.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/layouts/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/static/images/N90.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/static/images/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/static/images/avatar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/static/images/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/static/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/exampleSite/static/images/favicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/ar.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/bn.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/cs.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/de.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/en.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/es.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/fi.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/fr.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/he.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/hi.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/hu.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/id.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/it.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/ja.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/ko.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/ms.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/nl.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/np.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/pl.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/pt-br.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/ro.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/ru.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/se.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/sk.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/sq.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/sr-latn.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/sr.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/tr.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/zh-cn.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/i18n/zh-tw.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/images/logos/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/images/logos/favicon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/images/logos/logomark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/images/logos/logomark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/images/logos/logotype-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/images/logos/logotype-a.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/images/logos/logotype-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/images/logos/logotype-b.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/images/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/images/tn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/_default/_markup/render-heading.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/_default/_markup/render-link.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/_default/baseof.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/_default/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/_default/single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/_default/terms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/applicationinsights.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/baidu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/cloudflare.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/fathom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/goatcounter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/googletagmanager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/matomo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/microanalyticsio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/pirsch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/plausible.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/umami.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/wideangle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/analytics/yandex-metrika.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/body/extensions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/csp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/float.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/head/alternative-output-formats.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/head/color-scheme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/head/custom-icons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/head/custom-styles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/head/extensions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/head/hugo-generator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/head/meta-tags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/head/theme-styles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/home/author.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/home/avatar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/home/extensions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/home/social.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/pagination.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/posts/commento.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/posts/disqus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/posts/giscus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/posts/math.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/posts/series.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/posts/telegram.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/posts/utterances.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/taxonomy/authors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/taxonomy/categories.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/taxonomy/tags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/partials/terms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/posts/li.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/posts/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/posts/single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/shortcodes/mermaid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/shortcodes/notice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/shortcodes/tab.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/layouts/shortcodes/tabgroup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/netlify.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/resources/_gen/assets/scss/scss/coder-dark.scss_1fcd9040f1144c65015c77e7b93bc5ac.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/resources/_gen/assets/scss/scss/coder-dark.scss_1fcd9040f1144c65015c77e7b93bc5ac.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/resources/_gen/assets/scss/scss/coder-dark.scss_9e20ccd2d8034c8e0fd83b11fb6e2bd5.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/resources/_gen/assets/scss/scss/coder-dark.scss_9e20ccd2d8034c8e0fd83b11fb6e2bd5.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/resources/_gen/assets/scss/scss/coder.scss_5e1eb8e37c42cdfb6215b61e44dcfa5f.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/resources/_gen/assets/scss/scss/coder.scss_5e1eb8e37c42cdfb6215b61e44dcfa5f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/resources/_gen/assets/scss/scss/coder.scss_fd4b5b3f9a48bc0c7f005d2f7a4cc30f.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/resources/_gen/assets/scss/scss/coder.scss_fd4b5b3f9a48bc0c7f005d2f7a4cc30f.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/static/fonts/forkawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/static/fonts/forkawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/static/fonts/forkawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/static/fonts/forkawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/static/fonts/forkawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/hugo-coder/theme.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/contact.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/posts/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/posts/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/coder.min.5adbe72fc41dcfb852215b84695288939b6b606db73238bd3ee936469572fc9c.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/coder.min.5adbe72fc41dcfb852215b84695288939b6b606db73238bd3ee936469572fc9c.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/en/posts/karate_vs_rest_assured.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/posts/karate_vs_rest_assured.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/en/about-I/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/about-I/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/en/about-Me/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/about-Me/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/en/about-Mysefl/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/about-Mysefl/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/authors/anthony-cortes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/authors/anthony-cortes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/authors/anthony-cortes/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/authors/anthony-cortes/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/authors/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/authors/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/authors/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/categories/api-test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/categories/api-test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/en/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/categories/java/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/categories/java/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/categories/karate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/categories/karate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/categories/testing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/categories/testing/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/contact/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/posts/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/posts/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/en/posts/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/posts/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/posts/karate_vs_rest_assured/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/posts/karate_vs_rest_assured/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/series/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/en/series/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/series/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/tags/api-test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/tags/api-test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/en/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/en/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/tags/java/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/tags/java/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/tags/karate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/tags/karate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/tags/testing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/tags/testing/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/es/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/es/authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/authors/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/es/authors/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/authors/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/es/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/es/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/categories/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/es/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/es/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/index.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/es/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/series/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/es/series/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/series/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/es/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/es/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/es/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/tags/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/coder-dark.scss_70f8a07cb8b7568202eb18ce456ff884.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/coder-dark.scss_70f8a07cb8b7568202eb18ce456ff884.content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/coder.scss_38b4d05915c0483e6cb106e4f0efccbc.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/coder.scss_38b4d05915c0483e6cb106e4f0efccbc.content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/coder.scss_d9b60ee5c2bc7799a5af2e1647965a29.content" beforeDir="false" afterPath="$PROJECT_DIR$/resources/_gen/assets/scss/scss/coder.scss_d9b60ee5c2bc7799a5af2e1647965a29.content" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -414,7 +140,23 @@
       <option name="project" value="LOCAL" />
       <updated>1692573641903</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Post about Karate">
+      <option name="closed" value="true" />
+      <created>1692720700931</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692720700931</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Post about Karate">
+      <option name="closed" value="true" />
+      <created>1692720728992</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692720728992</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

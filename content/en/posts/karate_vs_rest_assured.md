@@ -67,4 +67,4 @@ in the following article:
 
 [Karate documentation](https://github.com/karatelabs/karate#comparison-with-rest-assured)
 [Karate Framework vs Rest Assured](https://medium.com/getir/karate-framework-vs-rest-assured-95482a61002e#:~:text=Rest%20assured%20has%2046k%20lines,test%20and%20API%20was%20stable.&text=In%20my%20opinion%2C%20Karate%20Automation,is%20not%20the%20highest%20priority.)
-
+[Welcome to Karate vs Rest-Assured](https://gorillalogic.github.io/karate-rest_assured/)

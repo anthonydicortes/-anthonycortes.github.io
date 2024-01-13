@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/en/posts/java-optional/</loc>
+    <lastmod>2023-08-22T22:18:45-05:00</lastmod>
+  </url><url>
     <loc>/en/authors/anthony-cortes/</loc>
-    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
+    <lastmod>2023-08-22T22:18:45-05:00</lastmod>
   </url><url>
     <loc>/en/</loc>
-    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
+    <lastmod>2023-08-22T22:18:45-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
@@ -18,17 +21,8 @@
                 href="/en/"
                 />
   </url><url>
-    <loc>/en/tags/api-test/</loc>
-    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
-  </url><url>
-    <loc>/en/categories/api-test/</loc>
-    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
-  </url><url>
-    <loc>/en/posts/karate_vs_rest_assured/</loc>
-    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
-  </url><url>
     <loc>/en/authors/</loc>
-    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
+    <lastmod>2023-08-22T22:18:45-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
@@ -39,6 +33,18 @@
                 hreflang="en-US"
                 href="/en/authors/"
                 />
+  </url><url>
+    <loc>/en/posts/</loc>
+    <lastmod>2023-08-22T22:18:45-05:00</lastmod>
+  </url><url>
+    <loc>/en/tags/api-test/</loc>
+    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
+  </url><url>
+    <loc>/en/categories/api-test/</loc>
+    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
+  </url><url>
+    <loc>/en/posts/karate_vs_rest_assured/</loc>
+    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
   </url><url>
     <loc>/en/categories/</loc>
     <lastmod>2023-08-20T22:50:00-05:00</lastmod>
@@ -63,9 +69,6 @@
     <lastmod>2023-08-20T22:50:00-05:00</lastmod>
   </url><url>
     <loc>/en/categories/karate/</loc>
-    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
-  </url><url>
-    <loc>/en/posts/</loc>
     <lastmod>2023-08-20T22:50:00-05:00</lastmod>
   </url><url>
     <loc>/en/tags/</loc>
