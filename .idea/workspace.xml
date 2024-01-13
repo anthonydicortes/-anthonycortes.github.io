@@ -5,40 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67ab5fcd-6342-4966-a063-a2e9bce8792b" name="Changes" comment="Post about fiances">
-      <change afterPath="$PROJECT_DIR$/docs/es/about-I/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/about-Me/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/about-Mysefl/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/about/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/authors/anthony-cortes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/authors/anthony-cortes/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/authors/anthony-cortes/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/categories/credito-hipotecario/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/categories/credito-hipotecario/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/categories/credito-hipotecario/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/categories/finanzas-personales/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/categories/finanzas-personales/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/categories/finanzas-personales/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/categories/fna/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/categories/fna/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/categories/fna/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/contact/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/post/critica_al_fna/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/post/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/post/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/post/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/tags/credito-hipotecario/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/tags/credito-hipotecario/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/tags/credito-hipotecario/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/tags/finanzas-personales/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/tags/finanzas-personales/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/tags/finanzas-personales/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/tags/fna/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/tags/fna/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/es/tags/fna/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/en/posts/critica-al-fna.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/en/posts/critica-al-fna.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/es/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/es/about.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/es/contact.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/es/contact.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/authors/anthony-cortes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/authors/anthony-cortes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/authors/anthony-cortes/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/authors/anthony-cortes/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/authors/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/authors/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/en/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/en/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/es/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/es/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/es/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705164863421</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Post about fiances">
+      <option name="closed" value="true" />
+      <created>1705165870360</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705165870360</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

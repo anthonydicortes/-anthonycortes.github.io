@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/en/authors/anthony-cortes/</loc>
-    <lastmod>2023-08-22T22:18:45-05:00</lastmod>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>/en/</loc>
-    <lastmod>2023-08-22T22:18:45-05:00</lastmod>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>/en/authors/</loc>
-    <lastmod>2023-08-22T22:18:45-05:00</lastmod>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
@@ -41,23 +41,8 @@
                 href="/en/authors/"
                 />
   </url><url>
-    <loc>/en/posts/java-optional/</loc>
-    <lastmod>2023-08-22T22:18:45-05:00</lastmod>
-  </url><url>
-    <loc>/en/posts/</loc>
-    <lastmod>2023-08-22T22:18:45-05:00</lastmod>
-  </url><url>
-    <loc>/en/tags/api-test/</loc>
-    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
-  </url><url>
-    <loc>/en/categories/api-test/</loc>
-    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
-  </url><url>
-    <loc>/en/posts/karate_vs_rest_assured/</loc>
-    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
-  </url><url>
     <loc>/en/categories/</loc>
-    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
@@ -68,6 +53,115 @@
                 hreflang="en-US"
                 href="/en/categories/"
                 />
+  </url><url>
+    <loc>/en/tags/credito-hipotecario/</loc>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/tags/credito-hipotecario/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/credito-hipotecario/"
+                />
+  </url><url>
+    <loc>/en/categories/credito-hipotecario/</loc>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/categories/credito-hipotecario/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/categories/credito-hipotecario/"
+                />
+  </url><url>
+    <loc>/en/posts/critica-al-fna/</loc>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+  </url><url>
+    <loc>/en/tags/finanzas-personales/</loc>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/tags/finanzas-personales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/finanzas-personales/"
+                />
+  </url><url>
+    <loc>/en/categories/finanzas-personales/</loc>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/categories/finanzas-personales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/categories/finanzas-personales/"
+                />
+  </url><url>
+    <loc>/en/tags/fna/</loc>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/tags/fna/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/fna/"
+                />
+  </url><url>
+    <loc>/en/categories/fna/</loc>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/categories/fna/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/categories/fna/"
+                />
+  </url><url>
+    <loc>/en/posts/</loc>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+  </url><url>
+    <loc>/en/tags/</loc>
+    <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/"
+                />
+  </url><url>
+    <loc>/en/posts/java-optional/</loc>
+    <lastmod>2023-08-22T22:18:45-05:00</lastmod>
+  </url><url>
+    <loc>/en/tags/api-test/</loc>
+    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
+  </url><url>
+    <loc>/en/categories/api-test/</loc>
+    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
+  </url><url>
+    <loc>/en/posts/karate_vs_rest_assured/</loc>
+    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
   </url><url>
     <loc>/en/tags/java/</loc>
     <lastmod>2023-08-20T22:50:00-05:00</lastmod>
@@ -80,19 +174,6 @@
   </url><url>
     <loc>/en/categories/karate/</loc>
     <lastmod>2023-08-20T22:50:00-05:00</lastmod>
-  </url><url>
-    <loc>/en/tags/</loc>
-    <lastmod>2023-08-20T22:50:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="/en/tags/"
-                />
   </url><url>
     <loc>/en/tags/testing/</loc>
     <lastmod>2023-08-20T22:50:00-05:00</lastmod>

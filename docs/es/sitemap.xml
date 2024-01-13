@@ -56,24 +56,84 @@
   </url><url>
     <loc>/es/tags/credito-hipotecario/</loc>
     <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/credito-hipotecario/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/tags/credito-hipotecario/"
+                />
   </url><url>
     <loc>/es/categories/credito-hipotecario/</loc>
     <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/categories/credito-hipotecario/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/categories/credito-hipotecario/"
+                />
   </url><url>
     <loc>/es/post/critica_al_fna/</loc>
     <lastmod>2024-01-13T11:24:31-05:00</lastmod>
   </url><url>
     <loc>/es/tags/finanzas-personales/</loc>
     <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/finanzas-personales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/tags/finanzas-personales/"
+                />
   </url><url>
     <loc>/es/categories/finanzas-personales/</loc>
     <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/categories/finanzas-personales/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/categories/finanzas-personales/"
+                />
   </url><url>
     <loc>/es/tags/fna/</loc>
     <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/tags/fna/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/tags/fna/"
+                />
   </url><url>
     <loc>/es/categories/fna/</loc>
     <lastmod>2024-01-13T11:24:31-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/categories/fna/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/categories/fna/"
+                />
   </url><url>
     <loc>/es/post/</loc>
     <lastmod>2024-01-13T11:24:31-05:00</lastmod>
@@ -103,18 +163,6 @@
                 href="/es/contact/"
                 />
   </url><url>
-    <loc>/es/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="/es/about/"
-                />
-  </url><url>
     <loc>/es/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -125,6 +173,18 @@
                 rel="alternate"
                 hreflang="es-ES"
                 href="/es/series/"
+                />
+  </url><url>
+    <loc>/es/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="/es/about/"
                 />
   </url>
 </urlset>

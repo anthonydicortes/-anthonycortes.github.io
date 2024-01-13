@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Anthony Cortés</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 22 Aug 2023 22:18:45 -0500</lastBuildDate><atom:link href="/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jan 2024 11:24:31 -0500</lastBuildDate><atom:link href="/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Laberinto de la Burocracia: El Caso de Antonio Cortés</title>
+      <link>/en/posts/critica-al-fna/</link>
+      <pubDate>Sat, 13 Jan 2024 11:24:31 -0500</pubDate>
+      
+      <guid>/en/posts/critica-al-fna/</guid>
+      <description>“El Laberinto de la Burocracia: El Caso de Antonio Cortés”Link to headingPor Antonio Cortés
+Es lamentable que una entidad como el Fondo Nacional del Ahorro (FNA), una entidad público-privada, cuyo propósito es facilitar el acceso a la vivienda, se vea empañada por procesos burocráticos ineficientes y falta de transparencia. En el caso del señor Antonio Cortés, un colombiano radicado en la ciudad de Bucaramanga, la solicitud de un crédito para adquirir una vivienda usada se convirtió en un calvario de más de tres meses, un tiempo exorbitante para la evaluación del predio y el estudio de títulos, que según los tiempos estipulados por el FNA, debieron haber tomado solo 5 días hábiles cada una de las etapas.</description>
+    </item>
+    
     <item>
       <title>Java optionals</title>
       <link>/en/posts/java-optional/</link>
