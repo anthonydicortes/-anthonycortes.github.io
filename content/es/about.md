@@ -1,40 +1,44 @@
 +++
-title = "Me, Myself & I"
-description = "A Colombian software engineer and Scala advocate"
+title = "Yo, Yo Mismo & Yo"
+description = "Un ingeniero de software colombiano y defensor de Scala"
 date = "2023-08-2023"
 aliases = ["about-Me", "about-I", "about-Mysefl"]
-author = "Anthony Authors"
+author = "Anthony Cortes"
 +++
 
-### Motivation
+### Motivación
 
-Since several years ago I've been thinking in create my own blog to share with the programmers community (not only [Scala](https://www.scala-lang.org/)) several
-of my achievements and how I solved several challenges I faced during my still short career (still in progress), and finally that day has come, enjoy and
-I hope that some of those topic help to you to achieve yours goals. 
+Desde hace varios años he estado pensando en crear mi propio blog para compartir con la comunidad de programadores (no solo Scala)
+varios de mis logros y cómo resolví varios desafíos
+que enfrenté durante mi aún corta carrera (aún en progreso), y finalmente ese día ha llegado, disfruta y espero que algunos 
+de esos temas te ayuden a alcanzar tus metas.
 
-### Who I'm because I am how I am
+### Quién soy porque soy como soy
 
-I'm from a small city called Bucaramanga located in Colombia, surrounded by a lot of problems as same as the country, fortunately, lack of passion is not one of those, at least for me.
+Soy de una pequeña ciudad llamada Bucaramanga ubicada en Colombia, rodeada de muchos problemas al igual que el país,
+afortunadamente, la falta de pasión no es uno de ellos, al menos para mí.
 
-Quickly I realized that my life won't be easy, I wasn't charismatic, handsome, clever, rich, or talented, and most of the 
-time very shy and my vision sucks (I still use glasses all the time), but that shyness saved me from my own destruction, 
-while I used my frustration and people's contempt as motivation to do my best quietly, others used their qualities and free 
-time to get quick satisfaction no matter their future. I knew from the beginning that my time will come, and you'll realize why I say it.
+Rápidamente me di cuenta de que mi vida no sería fácil, no era carismático, guapo, inteligente, rico o talentoso, y la 
+mayoría de las veces muy tímido y mi visión es mala (todavía uso gafas todo el tiempo), pero esa timidez me salvó de mi 
+propia destrucción, mientras usaba mi frustración y el desprecio de la gente como motivación para hacer lo mejor que 
+podía en silencio, otros usaban sus cualidades y tiempo libre para obtener satisfacción rápida sin importar su futuro. 
+Sabía desde el principio que mi tiempo llegaría, y te darás cuenta de por qué lo digo.
 
-Since I was a child the computer was my escape from the nightmare that was my real life (children can be very aggressive with 
-others sometimes), even sometimes nowadays, to be honest, but my life is not that horrible now, and yes, before you asking 
-about my studies, I finally achieved my title as a software engineer after endless nights without sleep, and I have to confess 
-something, I lost my Java programming class. I'm a software engineer (Thanks to public university [Universidad Industrial de Santander](https://uis.edu.co) 
-and millions of Colombian taxpayers and friends that studied with me during long hours) and , and have financial stability (Thanks 
-to _Robert Kiyosaki_ and his bestseller [Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)), love still seems far away, and even more so for someone 
-who grew up between numbers and lines of code, for whom social interactions seem fake most of the time and too complex 
-(Too much drama, and me, I'm looking for happiness, not perfection, at least not outside of my job.), but I still have 
-the hope that having enough money it will be a matter of time before a nice woman notices me and not just for help, favors, or only money.
+Desde que era niño, la computadora fue mi escape de la pesadilla que era mi vida real (los niños pueden ser muy agresivos con los demás a veces), 
+incluso a veces hoy en día, para ser honesto, pero mi vida no es tan horrible ahora, y sí, antes de que preguntes sobre mis estudios, 
+finalmente logré mi título como ingeniero de software después de interminables noches sin dormir, y tengo que confesar algo, 
+perdí mi clase de programación en Java. Soy ingeniero de software (gracias a la universidad pública [Universidad Industrial de Santander](https://uis.edu.co) 
+y a millones de contribuyentes colombianos y amigos que estudiaron conmigo durante largas horas) y tengo estabilidad financiera 
+(gracias a _Robert Kiyosaki_ y su bestseller[Rich Dad Poor Dad](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)), 
+el amor todavía parece lejano, y más aún para alguien que creció entre números y líneas de código, para quien las interacciones 
+sociales parecen falsas la mayoría de las veces y demasiado complejas (demasiado drama, y yo, estoy buscando la felicidad, 
+no la perfección, al menos no fuera de mi trabajo.), pero todavía tengo  la esperanza de que teniendo suficiente dinero será 
+cuestión de tiempo antes de que una mujer agradable me note y no solo por ayuda, favores o solo dinero.
 
-## My software engineer background
+## Mi experiencia como ingeniero de software
 
-### First
+### Primero
 
-## What comes next
+## Lo que viene después
 
 # Scala Scala Scala ...

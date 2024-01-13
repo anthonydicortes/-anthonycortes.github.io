@@ -1,6 +1,6 @@
 +++
-title = "Contact"
-slug = "contact"
+title = "Contacto"
+slug = "contacto"
 +++
 
-If you want to contact me, fell free to write an email to **anthonydicortes@gmail.com**, with the subject **Question for Anthony's blog**, I'll reply it **ASAP**.
+Si deseas contactarme, no dudes en escribir un correo electrónico a **anthonydicortes@gmail.com**, con el asunto **Pregunta para el blog de Anthony**, te responderé lo más pronto posible.

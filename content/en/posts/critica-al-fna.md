@@ -11,6 +11,26 @@ externalLink = ""
 series = []
 +++
 
+## “The Labyrinth of Bureaucracy: The Case of Antonio Cortés”
+
+By Antonio Cortés
+
+It is regrettable that an entity like the National Savings Fund (FNA), a public-private entity, whose purpose is to facilitate access to housing, is tarnished by inefficient bureaucratic processes and lack of transparency. In the case of Mr. Antonio Cortés, a Colombian based in the city of Bucaramanga, the application for a loan to acquire a used home became an ordeal of more than three months, an exorbitant time for the evaluation of the property and the title study, which according to the times stipulated by the FNA, should have taken only 5 business days each of the stages.
+
+On October 4, 2023, Antonio began his process with a pre-approved from the FNA. He deposited all the required documents and embarked on a journey that promised not to take more than 3 months, divided into various phases of which stand out: the appraisal of the property and the title study. However, the reality was very different.
+
+The appraisal phase, which was supposed to take 5 business days, stretched for two long months. Antonio made countless calls to expedite the process, but he was not assigned an expert in a timely manner. At the end of this phase, the Fund simply sent him an email informing him that the appraisal had been satisfactory. But, what was the value of the appraisal? This information, crucial to determine how much money the Fund would lend him and how much he would have to contribute from his own resources, was not revealed.
+
+Then the title study began, another phase that was supposed to last 5 business days, but it stretched for almost a month. Finally, they informed him that the title study had been unfavorable because the amount defined in the promise of sale was much higher than the maximum amount that the FNA could lend him based on the appraisal of the property. We are talking about a difference of almost 60 million pesos.
+
+This fact implied unnecessary wear and tear, as Antonio had to sign an “other yes” along with the owners of the property, modifying the amounts of the promise of sale and drafting a new promise, which was delivered to the FNA on January 2, 2024.
+
+Given the repeated delays, the owners approached the FNA and were informed that, even at the stage where the credit was, the disbursement could be extended for up to 3 additional months to the 3 that had already elapsed since the process began. Faced with this situation, they decided to desist from the sale on January 9, 2024.
+
+This case exposes the serious damage that these situations cause to the country’s economy. The FNA is the bank with the best interest rates, but these facts become misleading advertising, since these rates never become effective due to the high probability that one of the parties decides to desist from the business, either because they find a better offer in the market or because the process is so slow that they lose interest in the business.
+
+Antonio’s story is a clear example of how bureaucracy can become an insurmountable obstacle for citizens seeking access to basic services. The FNA needs to dramatically improve its efficiency and transparency in order to fulfill its mission of facilitating access to housing. Potential buyers deserve a clear, efficient and transparent process, and it is imperative that the FNA strive to provide it.
+
 ## “El Laberinto de la Burocracia: El Caso de Antonio Cortés”
 
 Por Antonio Cortés
